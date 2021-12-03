@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔭 I’m currently working on Thaurus ERP Project from home! 💻☕🐘🏠🚀🚀
-<p>🌱 I’m currently learning NodeJS, ReactJs, AWS Cloud</p>
+<p>🌱 I’m currently learning more about NodeJS, ReactJs, AWS Cloud</p>
 <p>💬 Ask me about Clean Code and Best Practices!</p>
 <p>📫 How to reach me: <a href="mailto:lfguerino@gmail.com">Click here</a></p>
 
