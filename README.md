@@ -1,10 +1,19 @@
-## Hi there 👋
+# Olá! 👋 Sou o Luiz Filipe!
+## Desenvolvedor Web Fullstack com Core-language em PHP! 💻🐘</p>
 
-### 🔭 I’m currently working on Thaurus ERP Project from home! 💻☕🐘🏠🚀🚀
-<p>🌱 I’m currently learning more about Laravel, InertiaJS, VueJS, TailwindCSS, AWS Cloud</p>
-<p>💬 Ask me about Clean Code and Best Practices!</p>
-<p>📫 How to reach me: <a href="mailto:lfguerino@gmail.com">Click here</a></p>
+Para entregar soluções completas na web além do PHP minha linguagem do coração :-) alio ao meu workflow as seguintes techs em minha stack: Laravel, Composer, InertiaJS, Vue JS, Docker, Tailwindcss, Javascript, HTML5, CSS3, MySQL, MariaDB, PostgresSQL, Git, entre outras.
 
+Estou sempre aprendendo e melhorando a qualidade de software entregue, atualmente lendo e aplicando muitos aprendizados do livro "Código Limpo - Habilidades Práticas do Agile Software" de Robert C. Martin. Compartilho do mesmo pensando de Bob que escreveu: *"[...] Nós [desenvolvedores] somos autores, e todo autor tem leitores, com os quais boa comunicação é responsabilidade dos autores. Na próxima vez que você escrever uma linha de código, lembre-se que você é um autor, escrevendo para leitores que julgarão seus esforços."* Concordo plenamente com essas palavras, e me esforço em sempre escrever códigos para que possam ser lidos de forma clara; isto desde a declaração das variáveis; afinal: *"o nome de uma variável, função ou classe deve responder a todas as grandes questões. Ele deve lhe dizer porque existe, o que faz e como é usado. Se um nome requer um comentário, então ele não revela seu propósito"*
+
+Portanto, sempre estou tentando escrever códigos melhores e eficazes que entreguem a solução dos problemas da forma mais rápida mas ao mesmo tempo mais sustentável possível.
+
+A evolução é contínua e sempre estou buscando o próximo nível de excelência. Gosto também muito de ajudar outros por compartilhar conhecimentos e experiências. Acredito que precisamos de muita comunicação ao trabalhar em equipe, comunicação de qualidade, fazer as perguntas certas, mas também sintetizar a resposta certa. Muito tempo, dinheiro e esforços podem ser economizados com uma boa comunicação. E quantos aprendizados temos! É como já disse uma vez um pensador desconhecido (pelo menos pra mim): "ninguém é tão grande que não possa aprender e nem tão pequeno que não possa ensinar".
+
+Isto é um pouco sobre mim, sobre as tecnologias que trabalho, e um pouco do que eu acredito ser uma base sólida para desenvolver soluções de problemas com software de qualidade.</p>
+
+Agora hora de tomar um café e bora codar! ☕💻🐘🚀🚀:-)
+
+📫 Quer falar comigo? <a href="mailto:lfguerino@gmail.com">Clique aqui!</a>
 
 <a href="https://github.com/lfguerino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfguerino&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
