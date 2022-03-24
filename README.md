@@ -7,7 +7,7 @@ Estou sempre aprendendo e melhorando a qualidade de software entregue, atualment
 
 Portanto, sempre estou tentando escrever códigos melhores e eficazes que entreguem a solução dos problemas da forma mais rápida mas ao mesmo tempo mais sustentável possível.
 
-A evolução é contínua e sempre estou buscando o próximo nível de excelência. Gosto também muito de ajudar outros por compartilhar conhecimentos e experiências. Acredito que precisamos de muita comunicação ao trabalhar em equipe, comunicação de qualidade, fazer as perguntas certas, mas também sintetizar a resposta certa. Muito tempo, dinheiro e esforços podem ser economizados com uma boa comunicação. E quantos aprendizados temos! É como já disse uma vez um pensador desconhecido (pelo menos pra mim): "ninguém é tão grande que não possa aprender e nem tão pequeno que não possa ensinar".
+A evolução é contínua e sempre estou buscando o próximo nível de excelência. Gosto também muito de ajudar outros por compartilhar conhecimentos e experiências. Acredito que precisamos de muita comunicação ao trabalhar em equipe, comunicação de qualidade, fazer as perguntas certas, mas também sintetizar a resposta certa. Muito tempo, dinheiro e esforços podem ser economizados com uma boa comunicação. E quantos aprendizados temos! É como já disse uma vez um pensador desconhecido (pelo menos pra mim): *"ninguém é tão grande que não possa aprender e nem tão pequeno que não possa ensinar"*.
 
 Isto é um pouco sobre mim, sobre as tecnologias que trabalho, e um pouco do que eu acredito ser uma base sólida para desenvolver soluções de problemas com software de qualidade.</p>
 
