@@ -1,3 +1,22 @@
+# Hi there! 👋 I'm Luiz Filipe!
+## Fullstack Web Developer with Core-language in PHP! 💻🐘
+
+To deliver complete solutions on the web, besides PHP, my language of heart :-) I add to my workflow the following techs in my stack: Laravel, Composer, InertiaJS, Vue JS, Docker, Tailwindcss, Javascript, HTML5, CSS3, MySQL, MariaDB, PostgreSQL, Git, among others.
+
+I'm always learning and improving the quality of delivered software, currently reading and applying many learnings from Robert C. Martin's book "Clean Code - Practical Agile Software Skills". I share the same thoughts as Bob who wrote: *"[...] We [developers] are authors, and every author has readers, with whom good communication is the authors' responsibility. The next time you write a line of code, remember you are an author, writing for readers who will judge your efforts."* I fully agree with these words, and I strive to always write code so that it can be read clearly; this from the declaration of variables; after all: *"the name of a variable, function, or class should answer all the big questions. It should tell you why it exists, what it does, and how it's used. If a name requires a comment, then it doesn't reveal its purpose."*
+
+Therefore, I'm always trying to write better and more effective code that delivers the fastest and most sustainable way to solve problems.
+
+Evolution is continuous and I'm always looking for the next level of excellence. I also enjoy helping others by sharing knowledge and experiences. I believe we need a lot of communication when working as a team, quality communication, asking the right questions, but also synthesizing the right answer. A lot of time, money and effort can be saved with good communication. And how many lessons we have! It's as an unknown thinker once said (at least to me): *"no one is so big that he can't learn, nor so small that he can't teach".*
+
+This is a little about me, the technologies I work with, and a little bit of what I believe to be a solid foundation for developing problem solutions with quality software.
+
+Now time to have a coffee and let's code! ☕💻🐘🚀🚀 :-)
+
+📫 Want to talk to me? <a href="mailto:lfguerino@gmail.com">Click here!</a>
+
+<hr>
+
 # Olá! 👋 Sou o Luiz Filipe!
 ## Desenvolvedor Web Fullstack com Core-language em PHP! 💻🐘</p>
 
