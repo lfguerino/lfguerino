@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Luiz Filipe!
 ## Fullstack Web Developer with Core-language in PHP! 💻🐘
 
-To deliver complete solutions on the web, besides PHP, my language of heart :-) I add to my workflow the following techs in my stack: Laravel, Composer, InertiaJS, Vue JS, Docker, Tailwindcss, Javascript, HTML5, CSS3, MySQL, MariaDB, PostgreSQL, Git, among others.
+To deliver complete solutions on the web, besides PHP, my language of heart :-) I add to my workflow the following techs in my stack:Javascript, HTML5, CSS3, MySQL, MariaDB, PostgreSQL, Composer, Git, and currently studying Laravel, InertiaJS, Vue JS, Docker, Tailwindcss among others.
 
 I'm always learning and improving the quality of delivered software, currently reading and applying many learnings from Robert C. Martin's book "Clean Code - A Handbook of Agile Software Craftsmanship". I share the same thoughts as Bob who wrote: *"[...] We [developers] are authors, and every author has readers, with whom good communication is the authors' responsibility. The next time you write a line of code, remember you are an author, writing for readers who will judge your efforts."* I fully agree with these words, and I strive to always write code so that it can be read clearly; this from the declaration of variables; after all: *"the name of a variable, function, or class should answer all the big questions. It should tell you why it exists, what it does, and how it's used. If a name requires a comment, then it doesn't reveal its purpose."*
 
@@ -20,7 +20,7 @@ Now time to have a coffee and let's code! ☕💻🐘🚀🚀 :-)
 # Olá! 👋 Sou o Luiz Filipe!
 ## Desenvolvedor Web Fullstack com Core-language em PHP! 💻🐘</p>
 
-Para entregar soluções completas na web além do PHP minha linguagem do coração :-) alio ao meu workflow as seguintes techs em minha stack: Laravel, Composer, InertiaJS, Vue JS, Docker, Tailwindcss, Javascript, HTML5, CSS3, MySQL, MariaDB, PostgresSQL, Git, entre outras.
+Para entregar soluções completas na web além do PHP minha linguagem do coração :-) alio ao meu workflow as seguintes techs em minha stack: Javascript, HTML5, CSS3, MySQL, MariaDB, PostgresSQL, Git, e atualmente estudando Laravel, InertiaJS, Vue JS, Docker, Tailwindcss entre outras.
 
 Estou sempre aprendendo e melhorando a qualidade de software entregue, atualmente lendo e aplicando muitos aprendizados do livro "Código Limpo - Habilidades Práticas do Agile Software" de Robert C. Martin. Compartilho do mesmo pensando de Bob que escreveu: *"[...] Nós [desenvolvedores] somos autores, e todo autor tem leitores, com os quais boa comunicação é responsabilidade dos autores. Na próxima vez que você escrever uma linha de código, lembre-se que você é um autor, escrevendo para leitores que julgarão seus esforços."* Concordo plenamente com essas palavras, e me esforço em sempre escrever códigos para que possam ser lidos de forma clara; isto desde a declaração das variáveis; afinal: *"o nome de uma variável, função ou classe deve responder a todas as grandes questões. Ele deve lhe dizer porque existe, o que faz e como é usado. Se um nome requer um comentário, então ele não revela seu propósito"*
 
